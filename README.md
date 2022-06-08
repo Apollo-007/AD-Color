@@ -10,10 +10,10 @@
 ---
 
 ## **导入方法**
-
+[Altium Designer中导入和导出设置的方法]("https://blog.csdn.net/weixin_44056757/article/details/108187362")
 ---
 
 ## **Q&A**
-没有！保护眼睛从我做起！
+保护眼睛从我做起！
 
 ---
